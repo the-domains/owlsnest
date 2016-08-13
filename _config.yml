@@ -1,7 +1,7 @@
 name: owlsnest
 favicon: null
-layout_spectrum: 0.5165571090765297
-typography_spectrum: 0.7218663380481303
+layout_spectrum: 0.51015
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
